@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
   const dateTimePicker = document.querySelector('#datetime-picker');
   const startButton = document.querySelector('button[data-start]');
   let userSelectedDate = null;
